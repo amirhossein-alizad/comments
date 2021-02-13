@@ -4,7 +4,6 @@ we classified the comments in two classes of recommended and not recommended usi
 to test and run the code you will need to install "hazm" library for python.
 <br>
  * pip install hazm
-<br>
 ### Contact ###
 in case of any questions contact:
 * t.me/awwmiir_a
